@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/geraspace_photos/static/css/main.1c9d989f.css",
+    "main.css": "/geraspace_photos/static/css/main.c3ee829a.css",
     "main.js": "/geraspace_photos/static/js/main.f8560020.js",
     "static/js/787.c933e9d7.chunk.js": "/geraspace_photos/static/js/787.c933e9d7.chunk.js",
     "static/media/logo.svg": "/geraspace_photos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/geraspace_photos/index.html",
-    "main.1c9d989f.css.map": "/geraspace_photos/static/css/main.1c9d989f.css.map",
+    "main.c3ee829a.css.map": "/geraspace_photos/static/css/main.c3ee829a.css.map",
     "main.f8560020.js.map": "/geraspace_photos/static/js/main.f8560020.js.map",
     "787.c933e9d7.chunk.js.map": "/geraspace_photos/static/js/787.c933e9d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c9d989f.css",
+    "static/css/main.c3ee829a.css",
     "static/js/main.f8560020.js"
   ]
 }
